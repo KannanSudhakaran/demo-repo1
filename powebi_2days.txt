@@ -1,0 +1,59 @@
+
+
+ Day 1
+
+  1. Introduction to Power BI and its ecosystem
+   - Overview of Power BI
+   - Importance of Data Analytics
+   - Power BI Components
+   - Installing Power BI Desktop
+   - Power BI Service Overview
+   - Power BI Mobile Apps
+
+  2.  Data Sources, Data Transformation and Cleaning
+   
+   - Importing Data from Excel
+   - Connecting to SQL Server
+   - Using Web Data Sources
+   - Introduction to Power Query Editor
+   - Data Cleaning Techniques
+   - Merging and Appending Queries
+  
+
+  3. Data Modeling and Visualization
+   - Creating Relationships
+   - Star and Snowflake schema
+   - Understanding DAX (Data Analysis Expressions)
+   - Calculated Columns and Measures
+   - Types of Visualizations
+   - Creating and Customizing Charts
+   - Using Slicers and Filters
+
+ 4. Publishing and Sharing
+   - Publishing Reports to Power BI Service
+   - Creating Dashboards
+   - Sharing Reports and Dashboards
+
+ Day 2
+
+  5. Advanced Data Modeling and Visualization
+   - Row Context and Filter Context
+   - Advanced DAX Functions
+   - Time Intelligence Functions
+   - Understanding Evaluating Context  
+   - Hierarchies and Drillthrough
+   - Custom Visuals
+   - Conditional Formatting
+   - Bookmarks and Buttons
+
+ 6. Power BI Service Features and RLS
+   - Dataflows
+   - Power BI Workspaces
+   - Data Gateways
+   - Implementing Row-Level Security
+   - Managing Roles and Permissions
+ 
+7. Performance Optimization
+   - Optimizing Data Models
+   - Best Practices for Report Performance
+   - Monitoring and Auditing
